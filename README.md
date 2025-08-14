@@ -204,15 +204,12 @@ This project demonstrates comprehensive mastery of:
 ## 📸 Screenshots
 
 ### **Landing Page**
-![Landing Page](Images/my-image.jpg)
 *Modern landing page with parallax background and dual login options*
 
 ### **User Dashboard**
-![User Dashboard](Images/my-image.jpg)
 *Evidence management interface with file upload and categorization*
 
 ### **Admin Analytics**
-![Admin Dashboard](Images/my-image.jpg)
 *Interactive charts showing evidence statistics and user activity*
 
 ## 🤝 Contributing
